@@ -1,1 +1,1 @@
-First Maven Project
+First project on Maven
